@@ -20,8 +20,7 @@
         "iostream": "cpp",
         "cstdio": "cpp"
     },
-    "files.autoGuessEncoding": true,
-    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4,TabWidth: 4}",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4,TabWidth: 4,AllowShortBlocksOnASingleLine: true,AllowShortIfStatementsOnASingleLine: true,AllowShortLoopsOnASingleLine: true,MaxEmptyLinesToKeep:	10,}",
     "terminal.integrated.cursorBlinking": true,
     
 }
