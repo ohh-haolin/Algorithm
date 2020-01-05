@@ -17,11 +17,11 @@
     "code-runner.saveFileBeforeRun": true,
     "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cstdio": "cpp"
     },
     "files.autoGuessEncoding": true,
-    "C_Cpp.clang_format_fallbackStyle": "Chromium",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4,TabWidth: 4}",
     "terminal.integrated.cursorBlinking": true,
     
-   
 }

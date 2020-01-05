@@ -1,13 +1,16 @@
-#include<iostream>
-#include<cstdio>
+#include <cstdio>
+#include <iostream>
 
 using namespace std;
 
-void solve(){
-    print("Hello World! \n");
+void solve() {
+    printf("Hello World! \n");
     cout << "你好" << endl;
 }
 
-int mian(){
+int main() {
+    // freopen("1.txt","w",stdout);
     solve();
+
+    return 0;
 }
