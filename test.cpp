@@ -1,11 +1,22 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
+struct node{
+    node(){
+
+    };
+    node(int a,int b){
+        this->nxt = a;
+        this->var = b;
+    };
+    int nxt,var;
+};
+
+
 int main(){
-    int n=10;
-    const int* p1=&n;
-    int* p2 = (int*)p1;
-    *p2 = 5;
-    cout << n << endl;
+    node* A = new node(1,2);
+    A->nxt = 9;
+    cout << A->nxt << endl;
+    
     return 0;
 }
