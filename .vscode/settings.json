@@ -18,9 +18,12 @@
     "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     "files.associations": {
         "iostream": "cpp",
-        "cstdio": "cpp"
+        "cstdio": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "typeinfo": "cpp"
     },
-    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4,TabWidth: 4,AllowShortBlocksOnASingleLine: true,AllowShortIfStatementsOnASingleLine: true,AllowShortLoopsOnASingleLine: true,MaxEmptyLinesToKeep:	10,}",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4,TabWidth: 4,AllowShortBlocksOnASingleLine: true,AllowShortIfStatementsOnASingleLine: true,AllowShortLoopsOnASingleLine: true,MaxEmptyLinesToKeep: 10}",
     "terminal.integrated.cursorBlinking": true,
     
 }
