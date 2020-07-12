@@ -4,6 +4,6 @@ using ::std::endl;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "您好" << endl;
     return 0;
 }
