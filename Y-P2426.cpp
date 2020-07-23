@@ -35,10 +35,7 @@ void solve()
         }
 
 
-    cout << dp[1][N] << '\n';
-}
-
-int main()
+    cout << dp[1][N] << '\n';h
 {
     solve();
     return 0;
