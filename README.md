@@ -5,5 +5,4 @@
 更好的阅读体验可以前往我的[博客](https://hlz.ink)
 
 
-
-<div style = "max-width: 300px; background-image: url(https://api.btstu.cn/sjbz/?lx=dongman);"></div >
+![](https://us.20021110.xyz/images.php)
