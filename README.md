@@ -1,4 +1,4 @@
-## Haolin's Algorithm Notes
+# Haolin's Algorithm Notes
 
 一些关于算法的笔记，如有问题欢迎提issue，
 
